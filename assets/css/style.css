@@ -4,3 +4,58 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* 
+1. Từ ngoài vào trong
+2. Từ trên xuống dưới
+3. Tổng quan đến chi tiết
+*/
+
+
+/* 
+1. Vị trí
+2. Kích thước (width, height)
+3. Màu sắc
+4. Kiểu dáng (kích thước, hình tròn, vuông)
+ */
+
+
+#main {
+
+}
+
+#header {
+    height: 46.5px;
+    background-color: black;
+}
+
+#nav li {
+    display: inline-block;
+}
+
+#nav li a {
+    color: white;
+    text-decoration: none;
+    line-height: 46.5px;
+    padding: 12px 24px;
+}
+
+#nav .subnav {
+    display: none;
+}
+
+#silder {
+
+}
+
+#content {
+
+}
+
+#footer {
+
+}
