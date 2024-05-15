@@ -83,6 +83,11 @@ html {
     line-height: 38.5px;
 }
 
+#nav .nav-arrow-down {
+    font-size: 14px;
+}
+
+
 #silder {
     /* min-height: 500px;
     background-color: #333; */
