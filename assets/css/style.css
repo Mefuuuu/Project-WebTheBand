@@ -29,6 +29,10 @@ html {
 }
 
 #header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
     height: 46.5px;
     background-color: black;
 }
@@ -108,9 +112,32 @@ html {
 }
 
 #silder {
-    /* min-height: 500px;
-    background-color: #333; */
+    position: relative;
+    margin-top: 46.5px;
+    padding-top: 50%;
+    background: url(/F8/Project-WebTheBand/assets/img/silder1.jpg) top center / cover  no-repeat;
 }
+
+#silder .text-content {
+    position: absolute;
+    bottom: 47px;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+#silder .text-heading {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+#silder .text-description {
+    font-size: 15px;
+    margin-top: 25px;
+    font-weight: 700;
+}
+
+
 
 #content {
 
