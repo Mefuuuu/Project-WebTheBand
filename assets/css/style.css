@@ -23,6 +23,9 @@ html {
 4. Kiểu dáng (kích thước, hình tròn, vuông)
  */
 
+.clear {
+    clear: both;
+}
 
 #main {
 
@@ -172,8 +175,25 @@ html {
     line-height: 1.4;
 }
 
+#content .member-list {
+}
 
+#content .member-item {
+    float: left;
+    width: 33.33333%;
+    text-align: center;
+    margin-top: 48px;
+}
 
+#content .member-name {
+    font-size: 15px;
+}
+
+#content .member-img {
+    width: 154px;
+    margin-top: 15px;
+    border-radius: 4px;
+}
 
 
 #footer {
