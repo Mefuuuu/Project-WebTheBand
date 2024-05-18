@@ -1,6 +1,6 @@
 # Project-WebTheBand
 
-# Thực hành số 1: https://www.w3schools.com/w3css/tryw3css_templates_band.htm#
+# Thực hành số 1: https://www.w3schools.com/w3css/tryw3css_templates_band.htm
 
 # Thực hành
     1. Phân tích
