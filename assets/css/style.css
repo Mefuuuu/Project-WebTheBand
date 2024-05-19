@@ -208,7 +208,7 @@ html {
 .tickets-list {
     background-color: #fff;
     margin-top: 40px;
-    list-style-type: none;
+    list-style: none;
 }
 
 .tickets-list li {
@@ -218,7 +218,6 @@ html {
     color: #757575;
 
 }
-
 
 .tickets-list .sold-out {
     color: white;
