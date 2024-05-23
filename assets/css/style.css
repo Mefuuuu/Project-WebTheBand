@@ -239,11 +239,63 @@ html {
     margin-top: -3px;
 }
 
-.tour-section .section-sub-heading {
-
+/* Places */
+.place-list {
+    margin: 32px -8px 0;
+    padding-bottom: 48px;
 }
 
-/* have a nice day */
+.place-item {
+    float: left;
+    width: 33.33333%;
+    padding: 0 8px;
+}
+
+.place-img {
+    width: 100%;
+    display: block;
+}
+
+.place-img:hover {
+    opacity: 0.6;
+}
+
+.place-body {
+    background-color: white;
+    padding: 16px;
+    font-size: 15px;
+}
+
+.place-heading {
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.place-time {
+    margin-top: 15px;
+    color: #757575;
+    line-height: 1.4;
+}
+
+.place-desc {
+    margin-top: 15px;
+}
+
+.place-buy-btn {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px 16px;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.place-buy-btn:hover {
+    color: #000;
+    background-color: #ccc;
+}
+
+
 
 /* Footer section */
 #footer {
